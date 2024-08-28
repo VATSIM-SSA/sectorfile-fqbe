@@ -1,3 +1,17 @@
+// ##################################################################
+//                 VATSSA | FIR FQBE | ASR | FQBR AD GR
+// ##################################################################
+
+// Version v0.1
+// Update Date 27/08/2024
+
+// Changelog
+// v0.1 | Added header to file
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
