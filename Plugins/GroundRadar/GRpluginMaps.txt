@@ -198,6 +198,41 @@ SCTDATA:SID\FQMA SID ANTEM UVGAN1A
 //                 #8 GROUND LAYOUTS v0.1
 // ##################################################################
 
+// ################################################################## 
+//                 #8A AD LABELS v0.1 
+// ##################################################################
+
+//AIRPORT SETUP
+MAP:TAXIWAY LABELS
+FOLDER:AD LABELS
+AIRPORT:FQNC
+ACTIVE:1
+TEXT:S8.51.05.17:E013.13.54.61:C6:0:0
+
+// TAXIWAYS
+COLOR:WHITE
+STYLE:Solid:2
+FONTSIZE:-:1
+TEXTALIGN:L
+
+// APRONS
+COLOR:BLACK
+STYLE:Solid:2
+FONTSIZE:-:1
+TEXTALIGN:L
+ZOOM:700
+
+// BUILDINGS
+COLOR:WHITE
+ZOOM:700
+
+// PARKING POSITONS
+COLOR:WHITE
+STYLE:Solid:2
+FONTSIZE:-:1
+TEXTALIGN:L
+ZOOM:700
+
 // ##################################################################
 //                 #9 GEO v0.1
 // ##################################################################
