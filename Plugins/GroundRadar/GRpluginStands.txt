@@ -2,14 +2,15 @@
 //                 VATSSA | FIR FQBE | GroundRadar | Stands
 // ##################################################################
 
-// Version v0.1
-// Update Date 20/06/2022
+// Version v0.2
+// Update Date 27/08/2024
 
 // Changelog
 // v0.1 | Initial Create
+// v0.2 | Added stand data for FQNC
 
 // Active Airports
-// FQ | FQMA
+// FQ | FQMA, FQNC
 
 // ##################################################################
 //                 FQ MOZAMBIQUE
@@ -197,6 +198,95 @@ USE:PH
 WTC:L
 AREA
 
+// ##################################################################
+//                 FQNC Nacala
+// ##################################################################
+
+// Stand C3
+STAND:FQNC:C3:S14.29.33.53:E40.42.27.59:20
+USE:AB
+WTC:M
+BLOCKS:A3
+
+// Stand A3
+STAND:FQNC:A3:S14.29.34.09:E40.42.27.56:20
+USE:AB
+WTC:MH
+BLOCKS:C4,C3
+
+// Stand C4
+STAND:FQNC:C4:S14.29.34.88:E40.42.27.53:20
+USE:AB
+WTC:M
+BLOCKS:A3
+
+// Stand C5
+STAND:FQNC:C5:S14.29.36.20:E40.42.27.50:20
+USE:AB
+WTC:M
+BLOCKS:A4
+
+// Stand A4
+STAND:FQNC:A4:S14.29.36.77:E40.42.27.47:20
+USE:AB
+WTC:MH
+BLOCKS:C5,A1
+
+// Stand A1
+STAND:FQNC:A1:S14.29.37.52:E40.42.27.44:20
+USE:AB
+WTC:M
+BLOCKS:A4
+
+// Stand A2
+STAND:FQNC:A2:S14.29.38.88:E40.42.27.41:20
+USE:AB
+WTC:MH
+BLOCKS:C1,E2,C2,E1
+
+// Stand C2
+STAND:FQNC:C2:S14.29.39.60:E40.42.26.29:8
+USE:ABP
+WTC:L
+BLOCKS:A2
+
+// Stand C1
+STAND:FQNC:C1:S14.29.39.65:E40.42.26.87:9
+USE:ABP
+WTC:L
+BLOCKS:A2
+
+// Stand E2
+STAND:FQNC:E2:S14.29.39.70:E40.42.27.49:9
+USE:ABP
+WTC:L
+BLOCKS:A2
+
+// Stand E1
+STAND:FQNC:E1:S14.29.39.75:E40.42.28.10:9
+USE:ABP
+WTC:L
+BLOCKS:A2
+
+// MILITARY APRON
+// Military Ramp 1
+STAND:FQMA:MIL1:S14.29.12.71:E40.42.29.20:80
+USE:HCIMT
+WTC:LMH
+AREA
+
+// Military Ramp 2
+STAND:FQMA:MIL2:S14.29.20.11:E40.42.28.20:100
+USE:HCIMT
+WTC:LMH
+AREA
+
+// GENERAL AVIATION APRON
+// General Aviation
+STAND:FQMA:GA:S14.29.11.12:E40.42.22.46:120
+USE:HCP
+WTC:LMH
+AREA
 
 // ##################################################################
 //                 THE END

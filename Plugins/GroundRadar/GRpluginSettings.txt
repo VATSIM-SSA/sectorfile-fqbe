@@ -4,9 +4,11 @@
 
 // GroundRadar Version 1.5 Stable
 
-// Version v0.2
-// Update Date 23/08/2022
+// Version v0.3
+// Update Date 27/08/2024
 
+// Changelog
+// v0.3 | Added stand data for FQNC
 
 // ##################################################################
 //                 #1 SYSTEM SETTINGS v0.3
@@ -226,6 +228,15 @@ Window_APP_AltFilter=5147
 
 AppPath=FQMA:FQMA 23:S025.53.44.901:E032.35.16.299:227:L:147:3.0
 
+[FQNC]
+Airport_Elevation=398
+Airport_Radius=3
+
+Window_APP=1,900,740,500,250
+Window_APP_Rotation=83
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=5345
 
 // ##################################################################
 //                 END
