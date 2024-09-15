@@ -1,0 +1,17 @@
+===== Mozambique =====
+----
+
+//This page is a subsection of the [[Mozambique]] country page.//
+
+
+==== FQBE ====
+
+----
+
+[[FQBE]] Beira FIR | v0.1
+
+==== FQMA ====
+
+----
+
+[[FQMA]] Maputo Intl | v0.1

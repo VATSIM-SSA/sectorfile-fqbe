@@ -1,0 +1,7 @@
+==== Mozambique Airspace ====
+
+^ ICAO  ^ Name  ^ SSA Code  ^ Type    ^ Remarks ^
+| FQBE  | Beira | [[FQBE]]  | -       | - |
+
+
+{{page>fq-footer#Mozambique}}

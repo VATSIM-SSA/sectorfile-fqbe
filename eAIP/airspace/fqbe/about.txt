@@ -1,0 +1,13 @@
+===== FQBE Beira Flight Information Region =====
+
+  * 
+
+==== Airport Coverage ====
+
+Beira FIR covers the following airports:
+
+=== Mozambique ===
+
+{{page>mozambique-airports#Mozambique Airports}}
+
+{{page>fq-footer#FQBE}}

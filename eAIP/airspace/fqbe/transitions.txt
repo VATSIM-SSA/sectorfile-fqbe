@@ -1,0 +1,9 @@
+===== FQBE Beira Transition Table =====
+
+{{page>ssa-transition-table#Dynamic Transition}}
+
+
+{{page>ssa-transition-table#FQBE}}
+
+
+{{page>fq-footer#FQBE}}

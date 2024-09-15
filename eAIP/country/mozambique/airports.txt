@@ -1,0 +1,8 @@
+==== Mozambique Airports ====
+
+^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
+| [[FQMA]]  | Name          | City          | In Development             | - |
+
+
+
+{{page>fq-footer#Mozambique}}

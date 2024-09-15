@@ -1,0 +1,35 @@
+===== FQBE Beira Airspace Rules =====
+
+==== Separation ====
+
+- 20 Min based on MNT or
+
+- RNP5 on specific routes::
+- UT122, ORNAD to SUNIR;
+– UT125, ANVAK to VMA;
+– UT444, SUNIR to DUTGI;
+– UT446, EROPA to UNPEN;
+– UT512, ETLOP to VBR;
+– UT513, GADNO to VBR;
+– UT515, ETLEG to VBR;
+– UT516, IMKIB to VBR;
+– UT517, GEVUD to VL;
+– UT518, IXEMA to VL;
+– UT519, NERUL to VL;
+– UT536, VMA to EROPA.
+
+==== SELCAL ====
+
+  * SELCAL is NOT available within the FQBE FIR airspace.
+
+==== SLOP ====
+
+  * SLOP is possible on all enroute ATS routes between FL290 and FL410.
+
+
+==== VFR Rules ====
+
+  * VFR flights shall not be operadored above FL200 without approval.
+
+
+{{page>fq-footer#FQBE}}

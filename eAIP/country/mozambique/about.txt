@@ -1,0 +1,8 @@
+===== Mozambique Information =====
+
+Mozambique, officially the Republic of Mozambique, is a country located in southeastern Africa bordered by the Indian Ocean to the east, [[tanzania|Tanzania]] to the north, [[malawi|Malawi]] and [[zambia|Zambia]] to the northwest, [[zimbabwe|Zimbabwe]] to the west, and [[eswatini|Eswatini]] and [[south_africa|South Africa]] to the southwest. The sovereign state is separated from the [[comoros|Comoros]], [[mayotte|Mayotte]] and [[madagascar|Madagascar]] by the Mozambique Channel to the east. The capital and largest city is Maputo. 
+
+For more information, please visit [[https://en.wikipedia.org/wiki/Mozambique|Wikipedia]].
+
+
+{{page>fq-footer#Mozambique}}
