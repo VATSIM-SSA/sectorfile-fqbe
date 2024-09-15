@@ -65,9 +65,11 @@ Geo:FQNM Groundlayout:
 Geo:FQPB Groundlayout:
 Geo:FQQL Groundlayout:
 Geo:FQVL Groundlayout:
+Geo:FQNC Groundlayout Nacala:
 Geo:GEO:
 Regions:FQBR Groundlayout:polygon
 Regions:FQMA Groundlayout:polygon
+Regions:FQNC Nacala:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0
