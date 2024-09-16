@@ -8,6 +8,6 @@ Beira FIR covers the following airports:
 
 === Mozambique ===
 
-{{page>mozambique-airports#Mozambique Airports}}
+{{page>country:mozambique:airports#Mozambique Airports}}
 
 {{page>fq-footer#FQBE}}

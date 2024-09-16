@@ -1,17 +1,17 @@
 ===== Mozambique =====
 ----
 
-//This page is a subsection of the [[Mozambique]] country page.//
+//This page is a subsection of the [[country:mozambique:home|Mozambique]] country page.//
 
 
 ==== FQBE ====
 
 ----
 
-[[FQBE]] Beira FIR | v0.1
+[[airspace:fqbe:home|FQBE]] Beira FIR | v0.1
 
 ==== FQMA ====
 
 ----
 
-[[FQMA]] Maputo Intl | v0.1
+[[airport:fqma:home|FQMA]] Maputo Intl | v0.1
